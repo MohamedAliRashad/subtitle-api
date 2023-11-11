@@ -28,6 +28,6 @@ setuptools.setup(
         'beautifulsoup4==4.9.0',
         'requests==2.23.0',
         'IMDbPY==2021.4.18',
-        'lxml==4.6.3',
+        'lxml==4.9.3',
     ],
 )
